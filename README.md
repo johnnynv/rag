@@ -1,5 +1,6 @@
 <h1><img align="center" src="https://github.com/user-attachments/assets/cbe0d62f-c856-4e0b-b3ee-6184b7c4d96f">NVIDIA RAG Blueprint</h1>
 
+
 Use this documentation to learn about the NVIDIA RAG Blueprint.
 The target audience for this blueprint is
 developers who want a quick start to set up a RAG solution with a path-to-production with the NVIDIA NIM.
